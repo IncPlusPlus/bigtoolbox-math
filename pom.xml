@@ -22,7 +22,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <bintray.repo>incplusplus/main-maven</bintray.repo>
-        <bintray.package>bigtoolbox-network</bintray.package>
+        <bintray.package>bigtoolbox-math</bintray.package>
         <bintray.subject>incplusplus</bintray.subject>
     </properties>
 
