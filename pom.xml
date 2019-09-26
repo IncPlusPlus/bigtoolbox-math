@@ -7,8 +7,9 @@
         <groupId>io.github.incplusplus</groupId>
         <artifactId>bigtoolbox-parent</artifactId>
         <version>1.0.95</version>
+        <relativePath></relativePath>
     </parent>
-    <artifactId>math</artifactId>
+    <artifactId>bigtoolbox-math</artifactId>
     <name>Big Tool Box: Math</name>
     <version>1.0.95</version>
     <packaging>jar</packaging>
@@ -17,6 +18,25 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
+
+    <repositories>
+        <repository>
+            <snapshots>
+                <enabled>
+                    false
+                </enabled>
+            </snapshots>
+            <id>
+                bintray-incplusplus-main-maven
+            </id>
+            <name>
+                bintray
+            </name>
+            <url>
+                https://dl.bintray.com/incplusplus/main-maven
+            </url>
+        </repository>
+    </repositories>
 
     <build>
         <finalName>${project.artifactId}-${project.version}</finalName>
