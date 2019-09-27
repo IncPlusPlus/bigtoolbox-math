@@ -2,4 +2,5 @@
 [![codebeat badge](https://codebeat.co/badges/c2a43e99-8219-4049-9159-59c3f07ced67)](https://codebeat.co/projects/github-com-incplusplus-bigtoolbox-math-master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/bd2d071045ae34ee5423/maintainability)](https://codeclimate.com/github/IncPlusPlus/bigtoolbox-math/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/bd2d071045ae34ee5423/test_coverage)](https://codeclimate.com/github/IncPlusPlus/bigtoolbox-math/test_coverage)
+[![Build Status](https://travis-ci.com/IncPlusPlus/bigtoolbox-math.svg?branch=master)](https://travis-ci.com/IncPlusPlus/bigtoolbox-math)
 [![Known Vulnerabilities](https://snyk.io//test/github/IncPlusPlus/bigtoolbox-math/badge.svg?targetFile=pom.xml)](https://snyk.io//test/github/IncPlusPlus/bigtoolbox-math?targetFile=pom.xml)
