@@ -7,6 +7,8 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/IncPlusPlus/bigtoolbox-math.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/IncPlusPlus/bigtoolbox-math/alerts/)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FIncPlusPlus%2Fbigtoolbox-math.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FIncPlusPlus%2Fbigtoolbox-math?ref=badge_shield)
 
+# What is this?
+This is the math module of [bigtoolbox](https://github.com/IncPlusPlus/bigtoolbox). Believe it or not, this is the most polished of the modules. It contains a collection of math related functions. Many of which I used to complete [Project Euler](https://projecteuler.net) challenges.
 
 ## License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FIncPlusPlus%2Fbigtoolbox-math.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FIncPlusPlus%2Fbigtoolbox-math?ref=badge_large)
