@@ -12,7 +12,7 @@
     </parent>
     <artifactId>bigtoolbox-math</artifactId>
     <name>Big Tool Box: Math</name>
-    <version>1.0.97</version>
+    <version>1.0.98</version>
     <packaging>jar</packaging>
     <description>The math module of bigtoolbox</description>
     <url>https://github.com/IncPlusPlus/bigtoolbox-math</url>
