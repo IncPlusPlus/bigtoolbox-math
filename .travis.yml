@@ -17,7 +17,7 @@ matrix:
       script:
         - mvn clean jacoco:prepare-agent install jacoco:report
       after_script:
-        - ./cc-test-reporter after-build -d -t jacoco --exit-code $TRAVIS_TEST_RESULT
+        - ./cc-test-reporter after-build -d -t jacoco ./target/site/jacoco/jacoco.xml --exit-code $TRAVIS_TEST_RESULT
       after_success:
         - bash <(curl -s https://codecov.io/bash)
       deploy:
