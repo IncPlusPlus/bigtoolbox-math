@@ -7,7 +7,7 @@
     <version>1.0.103</version>
   </parent>
   <artifactId>bigtoolbox-math</artifactId>
-  <version>1.0.98</version>
+  <version>1.0.99</version>
   <packaging>jar</packaging>
   <name>Big Tool Box: Math</name>
   <description>The math module of bigtoolbox</description>
