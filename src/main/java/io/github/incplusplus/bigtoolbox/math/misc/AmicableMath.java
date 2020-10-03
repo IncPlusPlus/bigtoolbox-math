@@ -49,7 +49,7 @@ public class AmicableMath {
           temporaryAmicableHalf != 0
               ? temporaryAmicableHalf
               : i; // This makes the assumption that it is safe to have the iterator skip to the
-                   // other half of the amicable pair
+      // other half of the amicable pair
     }
     for (int i : arrayOfAmicables) {
       sumOfAmicables += i;
